@@ -9,6 +9,7 @@ def operation():
     print(num1%num2) # reminder
     print(num1//num2) # floor division
     print(num1**num2)
+    print(num1-num2)
 
 def num_spr():
     num = input("Enter the number ")
